@@ -1,5 +1,7 @@
 # Data Visualization Final Project
 ---
+See the tool in action here: https://danishiqbalberkeley.github.io/Portland-Housing-Tool/
+
 Riley Rustad and Danish Iqbal
 
 ### Proposal
@@ -19,7 +21,7 @@ Here’s a sample page from the 2016 report:
 
 We would like to capture these table values, as well as other civic data, and allow the user to explore them visually on a map filtering by year, demographic, and housing size.
 
-Provided there’s enough time, it would also be fun to explore additional data provided in the report, about increased developments, comparisons across the 2015 and 2016 reports. 
+Provided there’s enough time, it would also be fun to explore additional data provided in the report, about increased developments, comparisons across the 2015 and 2016 reports.
 
 Last, it would be interesting to incorporate data from the American Community Survey(ACS). Luckily the shapefiles associated with the Report align with census blocks!
 
